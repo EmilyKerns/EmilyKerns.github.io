@@ -1,7 +1,5 @@
 ---
-title: "EmilyKerns.github.io"
+title: "Emily Kerns"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m Emily! I am a PhD candidate at UW-Madison. I’m fascinated by how phenotypic plasticity can interact with evolution and ecology. I study the evolutionary genetics of a fish, threespine stickleback, to understand how plasticity can evolve and potentially influence resiliency. I plan to pursue an academic career, and will be searching for postdocs upon graduating from UW-Madison. 
