@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About Me"
+about: 
+  template: jolla
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
+    - text: BlueSky
+      href: https://bsky.app/profile/emilykernss.bsky.social
+    - text: Email
+      href: mailto:kerns3@wisc.edu
 ---
 
-About this site
+
+'![](C:/Users/Emily/Downloads/CurriculumVitae.pdf)'

@@ -1,23 +1,24 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.jpg"
+    - "*.pdf"
 
 website:
-  title: "EmilyKerns.github.io"
+  title: "Emily V. Kerns"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Research
-      - Teaching
-      - CV
-
+      
 format:
   html:
-    theme: cosmo
+    theme: jolla
     css: styles.css
     toc: true
-
-
+    page-layout: full
+about:
+  template: jolla
 
