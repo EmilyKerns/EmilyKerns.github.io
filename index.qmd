@@ -1,15 +1,31 @@
 ---
 title: "Emily Kerns"
-image: C:\Users\Emily\OneDrive\Desktop\media\PXL_20230522_192735307.MP_Original.jpeg
+image: ./WebsitePhoto_4.jpeg
 about: 
   template: jolla
+  image-shape: round
+  image-width: 17em
   links:
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
+    - text: Orcid
+      href: https://orcid.org/0009-0002-0538-4632
     - text: BlueSky
       href: https://bsky.app/profile/emilykernss.bsky.social
     - text: Email
       href: mailto:kerns3@wisc.edu
 ---
 
-Hi, I’m Emily! I am a PhD candidate at UW-Madison. I’m fascinated by how phenotypic plasticity can interact with evolution and ecology. I study the evolutionary genetics of a fish, threespine stickleback, to understand how plasticity can evolve and potentially influence resiliency. I plan to pursue an academic career, and will be searching for postdocs upon graduating from UW-Madison. 
+Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its impacts on ecology. I use a fish, threespine stickleback, to investigate evolved variation in plastic mechanisms. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison. 
+
+
+---
+
+# Curriculum Vitae
+
+Last updated November 2024
+
+
+<div class="pdf-embed-container">
+  <iframe class="pdf-embed" src="./CurriculumVitae_2.pdf" frameborder="0"></iframe>
+</div>

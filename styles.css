@@ -1,1 +1,13 @@
 /* css styles */
+
+.pdf-embed-container {
+  display: flex;
+  justify-content: flex-start;  /* Aligns content to the left */
+  align-items: center; /* Optional for vertical centering */
+  height: 100vh; /* Full viewport height for vertical centering */
+}
+
+.pdf-embed {
+  width: 300%;   /* Adjust width (you can change this percentage) */
+  height: 100vh; /* Adjust height as needed */
+}
