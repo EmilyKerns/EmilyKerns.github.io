@@ -8,6 +8,6 @@
 }
 
 .pdf-embed {
-  width: 800%;   /* Adjust width (you can change this percentage) */
+  width: 100%;   /* Adjust width (you can change this percentage) */
   height: 100vh; /* Adjust height as needed */
 }
