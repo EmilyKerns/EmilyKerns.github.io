@@ -4,7 +4,7 @@ image: ./WebsitePhoto_4.jpeg
 about: 
   template: jolla
   image-shape: round
-  image-width: 17em
+  image-width: 25em
   links:
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
@@ -30,4 +30,5 @@ Last updated November 2024
   <iframe class="pdf-embed" src="./CurriculumVitae_2.pdf" frameborder="0"></iframe>
 </div>
 
-image: ./thumbnail_IMG_2699.jpg
+
+![Lab Photo](./IMG_9752.jpg){width=70%}
