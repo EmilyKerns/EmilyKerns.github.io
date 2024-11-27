@@ -16,7 +16,7 @@ about:
       href: mailto:kerns3@wisc.edu
 ---
 
-Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its impacts on ecology. I use a fish, threespine stickleback, to investigate evolved variation in plastic mechanisms. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison. 
+Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison. 
 
 
 ---
@@ -29,3 +29,5 @@ Last updated November 2024
 <div class="pdf-embed-container">
   <iframe class="pdf-embed" src="./CurriculumVitae_2.pdf" frameborder="0"></iframe>
 </div>
+
+image: ./thumbnail_IMG_2699.jpg
