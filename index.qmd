@@ -23,11 +23,11 @@ Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Web
 
 # Curriculum Vitae
 
-Last updated November 2024
+Last updated December 2024
 
 
 <div class="pdf-embed-container">
-  <iframe class="pdf-embed" src="./CurriculumVitae.pdf" frameborder="0"></iframe>
+  <iframe class="pdf-embed" src="./Curriculum Vitae.pdf" frameborder="0"></iframe>
 </div>
 
 
