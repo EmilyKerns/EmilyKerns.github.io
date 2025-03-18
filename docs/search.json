@@ -4,6 +4,34 @@
     "href": "index.html",
     "title": "Emily Kerns",
     "section": "",
-    "text": "Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the Weber Lab at UW-Madison. I am also part of the Alaska Stickleback Project, a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison.\n\n\nCurriculum Vitae\nLast updated March 2025\n\n\n\n\n\n\nLab Photo\n\n\n\n\n\nMoose and I"
+    "text": "Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the Weber Lab at UW-Madison. I am also part of the Alaska Stickleback Project, a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison."
+  },
+  {
+    "objectID": "index.html#how-does-plasticity-evolve-and-facilitate-variation",
+    "href": "index.html#how-does-plasticity-evolve-and-facilitate-variation",
+    "title": "Emily Kerns",
+    "section": "How does plasticity evolve and facilitate variation?",
+    "text": "How does plasticity evolve and facilitate variation?\nMy PhD research is largely focused on understanding how plasticity itself can evolve. According theory regarding the costs of plasticity, we might expect populations that evolve in variable environments to maintain adaptive plastic mechanisms while populations that evolve in stable environments are more likely to become canalized. This prediction implies that some populations of the same species are more robust to rapid environmental changes than others, and therefore more likely to persist despite climate change. To address these questions, I am using benthic and limnetic ecotypes of threespine stickleback to integrate genomic, epigenomic, physiological, and ecological methods to test predictions regarding evolved variation in plasticity.\nMany of my projects focus on how DNA methylation has evolved to influence transcription. First, I wanted to ensure I was using the methods best suited for my research. In investigating different bisulfite sequencing and bioinformatic tools, I discovered that the most commonly used methods in epigenetics may not be the best fit for ecologically-focused systems. This led to my first, first-author publication. You can read the preprint here."
+  },
+  {
+    "objectID": "index.html#observing-eco-evolutionary-dynamics-in-introduced-populations",
+    "href": "index.html#observing-eco-evolutionary-dynamics-in-introduced-populations",
+    "title": "Emily Kerns",
+    "section": "Observing eco-evolutionary dynamics in introduced populations",
+    "text": "Observing eco-evolutionary dynamics in introduced populations\nIn 2019, an international group of researchers collaborated with the Alaska Department of Fish and Game (ADF&G) to initiate an ecological restoration and eco-evolution experiment. After ADF&G eliminated invasive species from nine lakes, the researchers restocked these lakes with threespine stickleback. I joined the project in 2022, conducting an experiment to investigate how plasticity of the initially transplanted fish may have facilitated survival of some populations over others, potentially influencing the long term evolutionary trajectory of the experiment. My lab also maintains all of the populations that were used to stock the lakes in a common garden. We experimentally exposed each population to a common tapeworm, contributing to a large collaboration in which we found evidence of eco-evolutionary dynamics between this tapeworm and the newly introduced stickleback populations."
+  },
+  {
+    "objectID": "index.html#selection-in-a-killifish-hybrid-zone",
+    "href": "index.html#selection-in-a-killifish-hybrid-zone",
+    "title": "Emily Kerns",
+    "section": "Selection in a killifish hybrid zone",
+    "text": "Selection in a killifish hybrid zone\nMy first introduction to research was at the University of North Florida, where I investigated selection in a killifish (Fundulus) hybrid zone. The selection patterns we initially found indicated that environmental factors may be influencing hybrid and parental species fitness within the hybrid zone. So we investigated further by doing more extensive genetic and environmental analysis. Because each species is predominately found in either mangrove or seagrass habitats, we predicted that vegetation would be the primary selective factor. However, we found the hybrid zone has a mosaic structure likely driven by multiple environmental variables and asymmetrical hybridization."
+  },
+  {
+    "objectID": "index.html#how-does-variation-in-plasticity-evolve",
+    "href": "index.html#how-does-variation-in-plasticity-evolve",
+    "title": "Emily Kerns",
+    "section": "How does variation in plasticity evolve?",
+    "text": "How does variation in plasticity evolve?\nThe role that plasticity plays in evolution is highly debated, but most people agree that plasticity is ubiquitous and important. According theory regarding the costs of plasticity, we might expect populations that evolve in variable environments to maintain adaptive plastic mechanisms while populations that evolve in stable environments are more likely to become canalized. This prediction implies populations of the same species may have different levels of resiliency to rapid environmental changes. To test predictions regarding evolved variation in plasticity, I am using benthic and limnetic ecotypes of threespine stickleback to conduct experiments that integrate genomics, epigenomics, physiology, and ecology.\nMany of my projects focus on how DNA methylation has evolved to influence transcription. First, I wanted to ensure I was using the methods best suited for my research. In investigating different bisulfite sequencing and bioinformatic tools, I discovered that the most commonly used methods in epigenetics may not be the best fit for ecologically-focused systems. This led to my first, first-author publication. You can read the preprint here.\n\n\n\nDoing lab work with an undergraduate mentee"
   }
 ]
