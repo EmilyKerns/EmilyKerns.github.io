@@ -32,6 +32,7 @@ Last updated March 2025
 
 ---
 
+
 # Projects
 
 ![Threespine Stickleback](Fish.jpg){width=400}
