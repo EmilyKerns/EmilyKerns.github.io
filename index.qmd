@@ -31,34 +31,14 @@ Last updated March 2025
 </div>
 
 ---
-
-
-# Projects
+# Photos
 
 ![Threespine Stickleback](Fish.jpg){width=400}
 
-## How does variation in plasticity evolve?
-
-The role that plasticity plays in evolution is highly debated, but most people agree that plasticity is ubiquitous and important. According theory regarding the costs of plasticity, we might expect populations that evolve in variable environments to maintain adaptive plastic mechanisms while populations that evolve in stable environments are more likely to become canalized. This prediction implies populations of the same species may have different levels of resiliency to rapid environmental changes. To test predictions regarding evolved variation in plasticity, I am using benthic and limnetic ecotypes of threespine stickleback to conduct experiments that integrate genomics, epigenomics, physiology, and ecology.
-
-Many of my projects focus on how DNA methylation has evolved to influence transcription. First, I wanted to ensure I was using the methods best suited for my research. In investigating different bisulfite sequencing and bioinformatic tools, I discovered that the most commonly used methods in epigenetics may not be the best fit for ecologically-focused systems. This led to my first, first-author publication. You can read the preprint [here](https://www.biorxiv.org/content/10.1101/2025.03.14.643302v1).
-
 ![Doing lab work with an undergraduate mentee](LabWork.jpg){width=400}
-
-## Observing eco-evolutionary dynamics in introduced populations
-
-In 2019, an international group of researchers collaborated with the Alaska Department of Fish and Game (ADF&G) to initiate an [ecological restoration and eco-evolution experiment](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.11503). After ADF&G eliminated invasive species from nine lakes, the researchers restocked these lakes with threespine stickleback. I joined the project in 2022, conducting an experiment to investigate how plasticity of the initially transplanted fish may have facilitated survival of some populations over others, potentially influencing the long term evolutionary trajectory of the experiment. My lab also maintains all of the populations that were used to stock the lakes in a common garden. We experimentally exposed each population to a common tapeworm, contributing to a large collaboration in which we found [evidence of eco-evolutionary dynamics](https://www.biorxiv.org/content/10.1101/2024.06.24.600494v1) between this tapeworm and the newly introduced stickleback populations.
 
 ![Dissections in the field](FieldDissection.jpg){width=400 fig-align="left"}
 ![Enclosures](ENCs2022.jpg){width=400 fig-align="right"}
-
-## Selection in a killifish hybrid zone
-
-My first introduction to research was at the University of North Florida, where I investigated selection in a killifish (*Fundulus*) hybrid zone. The [selection patterns we initially found](https://link.springer.com/article/10.1007/s11692-021-09553-x) indicated that environmental factors may be influencing hybrid and parental species fitness within the hybrid zone. So we investigated further by doing more extensive genetic and environmental analysis. Because each species is predominately found in either mangrove or seagrass habitats, we predicted that vegetation would be the primary selective factor. However, [we found the hybrid zone has a mosaic structure](https://academic.oup.com/evolut/article/79/2/232/7887700) likely driven by multiple environmental variables and asymmetrical hybridization. 
-
-
-# Photos
-
 ![Field Crew 2022](FieldCrew2022.jpg){width=400 height=250 fig-align="left"}
 ![Field Crew 2023](FieldCrew2023.jpg){width=400 height=250 fig-align="right"}
 ![Field Crew 2022](IMG_9048.jpeg){width=400 height=250 fig-align="right"}
