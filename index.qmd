@@ -1,23 +1,22 @@
----
-title: "Emily Kerns"
-image: ./WebsitePhoto_4.jpeg
+--- 
+title: "Emily Kerns" 
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 25em
-  links:
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
-    - text: Orcid
-      href: https://orcid.org/0009-0002-0538-4632
-    - text: BlueSky
-      href: https://bsky.app/profile/emilykernss.bsky.social
-    - text: Email
-      href: mailto:kerns3@wisc.edu
----
+  template: jolla 
+  image: "./WebsitePhoto_4.jpeg" 
+  image-shape: round 
+  image-width: 25em 
+  links: 
+    - text: Google Scholar 
+      href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao 
+    - text: Orcid 
+      href: https://orcid.org/0009-0002-0538-4632 
+    - text: BlueSky 
+      href: https://bsky.app/profile/emilykernss.bsky.social 
+    - text: Email 
+      href: mailto:kerns3@wisc.edu 
+--- 
 
-Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I’m fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison. 
-
+Hi, I'm Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I'm fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison.
 
 ---
 
@@ -25,12 +24,12 @@ Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Web
 
 Last updated April 2026
 
-
 <div class="pdf-embed-container">
   <iframe class="pdf-embed" src="./Curriculum_Vitae.pdf" frameborder="0"></iframe>
 </div>
 
 ---
+
 # Research Photos
 
 ![Threespine Stickleback](Fish.jpg){width=400}
@@ -58,8 +57,9 @@ I was able to put this formal training to practice by being a teaching assistant
 
 ![Delta Teaching & Learning Practitioner Badge](./TheUW MadisonGraduateSchool_DeltaTeachingLearningPractitioner_2026_01_14.jpg){width=70%}
 
-![Wearing a hissing cockroach at UW-Madison Science Expeditions](./TAR_Poster.jpg){width=100%}
+![Teaching-as-research poster](./TAR_Poster.jpg){width=100%}
 
+---
 
 # Outreach
 
@@ -67,8 +67,6 @@ I served as Outreach Coordinator for two years for the Department of Integrative
 
 ![Wearing a hissing cockroach at UW-Madison Science Expeditions](./Science_Expeditions_April2026_096.jpg){width=70%}
 
-
 ![Introducing people to some cool bugs during outreach](./Science_Expeditions_April2026_099.jpg){width=70%}
-
 
 ![Moose and I](./thumbnail_IMG_2699.jpg){width=70%}

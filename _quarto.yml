@@ -16,7 +16,7 @@ website:
       
 format:
   html:
-    theme: jolla
+    theme: cosmo
     css: styles.css
     toc: true
     page-layout: full
@@ -24,8 +24,3 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
-about: 
-  template: jolla
-  image-shape: round
-  image-width: 20em
-
