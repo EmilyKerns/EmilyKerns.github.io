@@ -23,7 +23,7 @@ Hi, I’m Emily! I am a PhD candidate studying evolutionary genetics in the [Web
 
 # Curriculum Vitae
 
-Last updated July 2025
+Last updated April 2026
 
 
 <div class="pdf-embed-container">
@@ -47,6 +47,8 @@ Last updated July 2025
 ![A copepod infected with a tapeworm](Copepod.jpg){width=400 height=300 fig-align="right"}
 
 ![Lab Photo](./IMG_9752.jpg){width=70%}
+![Wearing a hissing cockroach at UW-Madison Science Expeditions](./Science_Expeditions_April2026_096.jpg){width=70%}
+![Introducing people to some cool bugs during outreach](./Science_Expeditions_April2026_099.jpg){width=70%}
 
 
 ![Moose and I](./thumbnail_IMG_2699.jpg){width=70%}

@@ -14,5 +14,5 @@ about:
 ---
 
 <div class="pdf-embed-container">
-  <iframe class="pdf-embed" src="./CurriculumVitae_2.pdf" frameborder="0"></iframe>
+  <iframe class="pdf-embed" src="./CurriculumVitae.pdf" frameborder="0"></iframe>
 </div>
