@@ -41,31 +41,33 @@ Last updated April 2026
 
 
 ::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
-![Threespine Stickleback](Fish.jpg)
 
-![Doing lab work with an undergraduate mentee](LabWork.jpg)
+![2022 Weber Lab Photo](./IMG_9752.jpg)
 
-![Dissections in the field](FieldDissection.jpg)
+![](Fish.jpg)
 
-![Enclosures](ENCs2022.jpg)
+![Seminar poster in which I was an invited speaker for the EEB Dept seminar series at UCLA as a La Kretz Center for Conservation Postdoctoral Fellow Finalist](photo1.png)
 
-![Field Crew](FieldCrew2022.jpg)
+![](LabWork.jpg)
 
-![Field Crew](FieldCrew2023.jpg)
+![The 2024 Alaska Stickleback Project team](photo2.png)
 
-![Field Crew](IMG_9048.jpeg)
+![](FieldDissection.jpg)
 
-![Snorkeling around Enclosures](Snorkeling.jpg)
+![](ENCs2022.jpg)
 
-![A stickleback tapeworm *Schistocephalus solidus* that we study](Tapeworms.jpg)
+![](FieldCrew2022.jpg)
 
-![A copepod infected with a tapeworm](Copepod.jpg)
+![](FieldCrew2023.jpg)
 
-![Lab Photo](./IMG_9752.jpg)
+![](IMG_9048.jpeg)
 
-![](photo1.png)
+![](Snorkeling.jpg)
 
-![](photo2.png)
+![Stickleback tapeworm *Schistocephalus solidus*](Tapeworms.jpg)
+
+![A copepod infected with *S. solidus*](Copepod.jpg)
+
 
 ![](photo3.png)
 
@@ -77,13 +79,13 @@ Last updated April 2026
 
 ![](photo7.png)
 
-![](photo8.png)
+![2019 Tongass National Forest AmeriCorps/SCA crew](photo8.png)
 
 ![](photo9.png)
 
 ![](photo10.png)
 
-![](photo11.png)
+![2020 US Forest Service PIBO Program crew](photo11.png)
 
 ![](photo12.png)
 
@@ -91,7 +93,7 @@ Last updated April 2026
 
 ![](photo14.png)
 
-![](photo15.png)
+![2019 Redwood National Park AmeriCorps/SCA crew](photo15.png)
 :::
 :::
 
@@ -115,8 +117,9 @@ I was able to put this formal training to practice by being a teaching assistant
 
 I served as Outreach Coordinator for two years for the Department of Integrative Biology's Graduate Student Organization. I brought outreach back to the department for the first time since before the Covid pandemic. During my tenure as Outreach Coordinator, 11 graduate student volunteers introduced over 3,600 community members to unfamiliar and misunderstood animals across 5 events.
 
+![Introducing people to some cool bugs during outreach](./Science_Expeditions_April2026_099.jpg){width=100%}
+
 ![Wearing a hissing cockroach at UW-Madison Science Expeditions](./Science_Expeditions_April2026_096.jpg){width=70%}
 
-![Introducing people to some cool bugs during outreach](./Science_Expeditions_April2026_099.jpg){width=70%}
 
-![Moose and I](./thumbnail_IMG_2699.jpg){width=70%}
+![Moose and I](./thumbnail_IMG_2699.jpg){width=80%}
