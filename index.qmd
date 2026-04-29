@@ -1,22 +1,28 @@
---- 
-title: "Emily Kerns" 
-about: 
-  template: jolla 
-  image: "./WebsitePhoto_4.jpeg" 
-  image-shape: round 
-  image-width: 25em 
-  links: 
-    - text: Google Scholar 
-      href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao 
-    - text: Orcid 
-      href: https://orcid.org/0009-0002-0538-4632 
-    - text: BlueSky 
-      href: https://bsky.app/profile/emilykernss.bsky.social 
-    - text: Email 
-      href: mailto:kerns3@wisc.edu 
+---
+title: ""
+about:
+  template: jolla
+  image: "./WebsitePhoto_4.jpeg"
+  image-shape: round
+  image-width: 25em
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
+    - text: Orcid
+      href: https://orcid.org/0009-0002-0538-4632
+    - text: BlueSky
+      href: https://bsky.app/profile/emilykernss.bsky.social
+    - text: Email
+      href: mailto:kerns3@wisc.edu
+---
+<div class="title-banner">
+  <img src="./banner_left.png">
+  <h2>Emily V. Kerns</h2>
+  <img src="./banner_right.png">
+</div>
 --- 
 
-Hi, I'm Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. I'm fascinated by how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to investigate evolved variation in plastic mechanisms, including DNA methylation and transcription. I plan to pursue an academic career and will be searching for postdocs upon graduating from UW-Madison.
+Hi, I'm Emily! I am a PhD candidate studying evolutionary genetics in the [Weber Lab](https://weberlab.integrativebiology.wisc.edu/) at UW-Madison. I am also part of the [Alaska Stickleback Project](https://alaskastickleback.com/), a large eco-evolution and restoration experiment. My dissertation is focused on investigating how phenotypic plasticity is shaped by evolution, and its subsequent impacts on ecology. I use the fish threespine stickleback to study evolved variation in plastic mechanisms, including DNA methylation and transcription. More broadly, I'm interested in understanding population movement (or stagnation) across adaptive landscapes, contemporary evolution, and applying evolutionary biology to modern conservation problems. **I plan to pursue an academic career and am searching for postdocs that begin in September 2026.**
 
 ---
 
@@ -32,30 +38,74 @@ Last updated April 2026
 
 # Research Photos
 
-![Threespine Stickleback](Fish.jpg){width=400}
 
-![Doing lab work with an undergraduate mentee](LabWork.jpg){width=400}
 
-![Dissections in the field](FieldDissection.jpg){width=400 fig-align="left"}
-![Enclosures](ENCs2022.jpg){width=400 fig-align="right"}
-![Field Crew 2022](FieldCrew2022.jpg){width=400 height=250 fig-align="left"}
-![Field Crew 2023](FieldCrew2023.jpg){width=400 height=250 fig-align="right"}
-![Field Crew 2022](IMG_9048.jpeg){width=400 height=250 fig-align="right"}
-![Checking Enclosures](Snorkeling.jpg){width=400 height=250 fig-align="right"}
-![A stickleback tapeworm *Schistocephalus solidus* that we study](Tapeworms.jpg){width=400 height=300 fig-align="left"}
-![A copepod infected with a tapeworm](Copepod.jpg){width=400 height=300 fig-align="right"}
+::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
+![Threespine Stickleback](Fish.jpg)
 
-![Lab Photo](./IMG_9752.jpg){width=70%}
+![Doing lab work with an undergraduate mentee](LabWork.jpg)
+
+![Dissections in the field](FieldDissection.jpg)
+
+![Enclosures](ENCs2022.jpg)
+
+![Field Crew](FieldCrew2022.jpg)
+
+![Field Crew](FieldCrew2023.jpg)
+
+![Field Crew](IMG_9048.jpeg)
+
+![Snorkeling around Enclosures](Snorkeling.jpg)
+
+![A stickleback tapeworm *Schistocephalus solidus* that we study](Tapeworms.jpg)
+
+![A copepod infected with a tapeworm](Copepod.jpg)
+
+![Lab Photo](./IMG_9752.jpg)
+
+![](photo1.png)
+
+![](photo2.png)
+
+![](photo3.png)
+
+![](photo4.png)
+
+![](photo5.png)
+
+![](photo6.png)
+
+![](photo7.png)
+
+![](photo8.png)
+
+![](photo9.png)
+
+![](photo10.png)
+
+![](photo11.png)
+
+![](photo12.png)
+
+![](photo13.png)
+
+![](photo14.png)
+
+![](photo15.png)
+:::
+:::
 
 ---
 
 # Teaching
 
+::: {style="overflow: hidden;"}
+![](./TheUW MadisonGraduateSchool_DeltaTeachingLearningPractitioner_2026_01_14.jpg){width=25% style="float: left; margin-right: 1.5em; margin-bottom: 0.5em;"}
+
 During my PhD I pursued formal teaching and mentorship training through the Center for Integration of Research, Teaching, & Learning's Delta Teaching Program. In addition to taking specialized courses, I also completed a teaching-as-research project to earn the Delta Teaching & Learning Practitioner Badge. I integrated periodic "utility-value interventions" - activities designed to increase the perceived relevance of course content - into an introductory animal biology lab. I asked if these activities increased students' intrinsic interest in ecology, evolution, and animal biology (EEB). Excitingly, I found that simply completing the course led to higher interest in EEB! Students who completed the intervention were also more likely to pursue EEB-educational activities in their personal life, like watching documentaries or visiting museums. Overall, I was excited to find that integrating a short and easy activity a few times throughout a semester can increase student interest in learning. Importantly, I learned how to integrate research methods into my classroom with the goal of iteratively increasing my efficacy as an instructor.
+:::
 
 I was able to put this formal training to practice by being a teaching assistant for three classes across six semesters. During my most recent semester as a TA, five undergraduates approached me for assistance with breaking into academic research. I also mentored 5 undergraduates in the lab, producing one co-first authored paper with my first mentee and including another as a coauthor on one of my thesis chapters.
-
-![Delta Teaching & Learning Practitioner Badge](./TheUW MadisonGraduateSchool_DeltaTeachingLearningPractitioner_2026_01_14.jpg){width=70%}
 
 ![Teaching-as-research poster](./TAR_Poster.jpg){width=100%}
 

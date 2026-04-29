@@ -5,15 +5,33 @@ project:
     - "*.jpeg"
     - "*.jpg"
     - "*.pdf"
-
+    - "*.png"
 website:
-  title: "Emily V. Kerns"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      
-      
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
+      - text: Orcid
+        href: https://orcid.org/0009-0002-0538-4632
+      - text: BlueSky
+        href: https://bsky.app/profile/emilykernss.bsky.social
+      - text: Email
+        href: mailto:kerns3@wisc.edu
+  page-footer:
+    center:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=e7-_yHAAAAAJ&hl=en&oi=ao
+      - text: Orcid
+        href: https://orcid.org/0009-0002-0538-4632
+      - text: BlueSky
+        href: https://bsky.app/profile/emilykernss.bsky.social
+      - text: Email
+        href: mailto:kerns3@wisc.edu
+
 format:
   html:
     theme: cosmo

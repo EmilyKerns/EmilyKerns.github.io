@@ -12,3 +12,25 @@
   height: 100vh; /* Adjust height as needed */
 }
 
+.title-banner {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  margin-bottom: 1em;
+}
+
+.title-banner img {
+  width: 150px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.title-banner h2 {
+  text-align: center;
+  margin: 0;
+  font-size: 3em;
+}
