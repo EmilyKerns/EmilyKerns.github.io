@@ -84,7 +84,6 @@ A large, collaborative manuscript was just accepted by *American Naturualist*! T
 
 I submitted my first PhD chapter for review at *Molecular Ecology Resources*! I compared the performance of 5 different read mapping methods for reduced representation (RRBS) and whole genome bisulfite-converted data (WGBS) across 6 nonmodel organisms. I also assess how the methylation profiles from RRBS and WGBS differed when performed on the same samples. We found some surprising results, including that the most common read mapping method for BS-seq data resulted in the lowest mapping efficiency, but that newer bioinformatic methods dropped most unmethylated cytosines. I also discovered that RRBS recovers very few cytosines with variable methylation states between cells, but, reassuringly, RRBS enriched for functional genomic regions compared to WGBS. To read more about our results and recommendations for evolutionary ecologists delving into epigenetics, see our [preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.14.643302v4)! 
 
-![](LabWork.jpg)
 
 **December, 2025**
 
@@ -248,6 +247,8 @@ During my PhD I pursued formal teaching and mentorship training through the Cent
 I was able to put this formal training to practice by being a teaching assistant for three classes across six semesters. During my most recent semester as a TA, five undergraduates approached me for assistance with breaking into academic research. I also mentored 5 undergraduates in the lab, producing one co-first authored paper with my first mentee and including another as a coauthor on one of my thesis chapters.
 
 ![Teaching-as-research poster](./TAR_Poster.jpg){width=100%}
+
+![](LabWork.jpg)
 
 ---
 
