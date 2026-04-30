@@ -36,25 +36,99 @@ Last updated April 2026
 
 ---
 
-# Research Photos
+# Research Updates
 
+<style>
+.research-updates {
+  text-align: left;
+}
 
+.research-updates strong:first-of-type,
+.research-updates p > strong:only-child {
+  display: block;
+  font-size: 1.25em;
+  margin-top: 2.5em;
+}
+</style>
+
+::: {.research-updates}
+
+**April, 2026**
+
+I submitted my second PhD chapter for review at *Proceedings of the Royal Society B: Biological Sciences*! We conducted an experiment to assess how chronic thermal tolerance, genetic background, and immunity interact in threespine stickleback. After acclimating benthic and limnetic stickleback to heat treatments well below their critical thermal maximum, we exposed them to the tapeworm *Schistocephalus solidus* and measured oxygen consumption rates. After 30 days at their experimental temperature, we remeasured oxygen consumption and collected infection outcomes and incidence of peritoneal fibrosis, an immune response to ward off tapeworm infection. Benthic fish fared much better at the highest temperature than limnetic fish, and this was associated with more stable metabolic rates across all temperatures. While there was only one successful tapeworm infection (out of >150 fish exposed!), we found a clear metabolic cost of mounting a fibrotic immune response. To learn more about our results and the potential evolutionary and conservation implications of using metabolism to predict population resilience, check out our [preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.15.676414v2)!
 
 ::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
 
-![2022 Weber Lab Photo](./IMG_9752.jpg)
+![Threespine stickleback](Fish.jpg)
 
-![](Fish.jpg)
+![Respirometry equipment](Resp1.jpg)
 
-![Seminar poster in which I was an invited speaker for the EEB Dept seminar series at UCLA as a La Kretz Center for Conservation Postdoctoral Fellow Finalist](photo1.png)
+![Fish in a respirometry chamber](Resp2.jpg)
+
+![Mature stickleback tapeworms (*Schistocephalus solidus*)](Tapeworms.jpg)
+
+
+![A copepod infected with *S. solidus* - infected copepods were fed to threespine stickleback](Copepod.jpg)
+
+:::
+
+
+**April, 2026**
+
+A large, collaborative manuscript was just accepted by *American Naturualist*! The Alaska Department of Fish & Game treated 9 lakes on the Kenai Peninsula with rotenone to eradicate invasive pike. In 2019, a large group of academics collaborated with Fish & Game to transplant threespine stickleback of known ancestry into these lakes. This large restoration effort was conducted using a factorial experimental design, allowing us to track changes in ecology and evolution over time. Using a combination of lab experiments and field observations, we show strong evidence of enemy release driving eco-evolutionary dynamics between a tapeworm (*S. solidus*) and a heritable immune response that suppresses tapeworm infections in stickleback. To learn more, check out [the newly accepted paper](https://www.journals.uchicago.edu/doi/abs/10.1086/741682?journalCode=an) or see [Alaska Stickleback Restoration Project](https://alaskastickleback.com/).
+
+![The 2024 Alaska Stickleback Project retreat](photo2.png)
+
+
+**January, 2026**
+
+I submitted my first PhD chapter for review at *Molecular Ecology Resources*! I compared the performance of 5 different read mapping methods for reduced representation (RRBS) and whole genome bisulfite-converted data (WGBS) across 6 nonmodel organisms. I also assess how the methylation profiles from RRBS and WGBS differed when performed on the same samples. We found some surprising results, including that the most common read mapping method for BS-seq data resulted in the lowest mapping efficiency, but that newer bioinformatic methods dropped most unmethylated cytosines. I also discovered that RRBS recovers very few cytosines with variable methylation states between cells, but, reassuringly, RRBS enriched for functional genomic regions compared to WGBS. To read more about our results and recommendations for evolutionary ecologists delving into epigenetics, see our [preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.14.643302v4)! 
 
 ![](LabWork.jpg)
 
-![The 2024 Alaska Stickleback Project team](photo2.png)
+**December, 2025**
+
+My undergraduate mentee's research project was accepted for publication at *PeerJ*! Sara and I worked together to design and test whether the tapeworm *S. solidus* use quorum sensing to initiate hatching. We predicted that eggs in higher densities would exhibit higher hatching rates. While we found no effect of density on hatch rates, I think this was an exciting experiment with some really interesting evolutionary predictions and implications. I'm proud that I was able to co-first author a peer-reviewed paper with a mentee, and publish a null result in a widely-read and respected journal. To learn more, check out our [manuscript](https://peerj.com/articles/20667/)!
+
+![Mature stickleback tapeworms (*Schistocephalus solidus*)](Schisto.jpg)
+
+![*S. solidus* shedding eggs in the lab](GravidSchisto.jpg)
+
+![*S. solidus* eggs and coracidia](Eggs.jpg)
+
+
+**November, 2025**
+
+I was honored to be considered a finalist for the UCLA La Kretz Center for California Conservation Science 2026 Postdoctoral Fellowship. In collaboration with my UCLA mentor, [Professor Greg Grether](https://sites.lifesci.ucla.edu/eeb-gretherlab/), and California Department of Fish & Wildlife (CDFW) mentor, [Dr. Bryan Barney](https://www.linkedin.com/in/bryanbarney), we proposed studying how introgression and inbreeding in McCloud River Redband trout, a species of conservation concern, influenced mortality risk during a catastrophic drought and subsequent species-rescue in 2014. During the drought, CDFW collected surviving McCloud River Redbands and brought them into a hatchery, establishing a conservation broodstock and saving this rare species from extinction. After two years, survivors and some of their F1 offspring were released back into their home streams. We proposed using fin clips collected throughout this period to assess if genetic risk factors influenced mortality rates, as well as connecting genes to resilience phenotypes in collaboration with [Dr. Nann Fangue's lab](https://fishconservationphysiologylab.faculty.ucdavis.edu/dr-nann-fangue/) at UC Davis. While I was not selected for this fellowship, I am proud of the application we put forward, excited that I was able to establish new collaborations across multiple institutions, and hopeful that one day we will be able to pursue these important projects that combine evolutionary theory with applied conservation. [Check out this video](https://vimeo.com/188421508?turnstile=1.h4J181e5TAPPjxd2TIrqvOS4BSc3xxiE7NLrx4b0DkOTLOp1ABN7Jev6KE6-VvevdM2QT2EO9vlfeI0bD4JSUigfAzn14MdMQ4SDIiC5gDOV-xENEUz10WM1ndm-DOcDPz36lboz6AVC4MCog9JNj92tQiZgNPHON45Pl6FzmvBZcvkZQSAIZ0umzwAAJ_fUHumCFtPFS6kFLjiu8IM5chqCHDaW45DIrdDFM0DWe2DLgfuvqaUJ8UPe0ydRhOFIjv_yYEjkejoN41LY0SlTsq7MyxtM95AylDoq8qIYLhAcM2lgz3MyiDbBfUemOuMlPk37GKdOxMXS-T0NVb4iQCKbMZXmhRTLQU2SDxPnEpTm-LO4gynqom5qHzTXHwBQctfrZB4IKYI4mv7Hn9wXuvUUbc7RBVRPPQMnR8k4DCcAxr33xvK7V4dbOEt1z-fOru6Uym0uokmG73yIvv_c-OiqOGlqXEmcO8qMz1o2TA6OqyjPf6zSazfE6XqoFFfnc-QkdjtEqxKGJhCYhBkDMM8oY0VZgpc0qxZOgKHhI3ngg7y6SEivHy0CawXfbRBB_P2vTypaTjFPtBFHecrucU87WUC3SoLWQulkLiH7EJRwFZkR0iU0Sim6PMarW4wEaN8dZJW8f33RnTS5m8cF00lzfzUssS53TcQSAMjbBMntYBkyX1F5wO8H8UmQk3gW.1nwSskF1MzpFnmzcVn8HbQ.b6c398f4e99801c7ca3e8d5f364b7b1615b517f2949ee6895fb99b331689d4b1) to learn more about CDFW's ongoing conservation of McCloud River Redband trout.
+
+![](photo1.png)
+
+**October, 2025**
+
+I gave my first invited seminar as part of UW-Madison's Evolution Seminar Series! Thank you to the Evolution Seminar Series Committee for extending the invitation. It was an honor and a ton of fun to share my research with the UW-Madison evolution community. 
+
+![](ESS.png)
+
+**February, 2025**
+
+My second paper is published in *Evolution*! This project was a continuation of my work at the University of North Florida as an undergraduate research assistant. We used more extensive genetic analysis to dig into the landscape genetic patterns of a hybrid zone between two *Fundulus* species on the east coast of Florida. We discovered that hybridization between these two species is both asymmetrical and dependent on microhabitat variation within the 37Km hybrid zone. Check out [the paper](https://academic.oup.com/evolut/article/79/2/232/7887700?login=false) to learn more!
+
+![*Fundulus heteroclitus* male and female](Fundulus.png)
+
+
+**January, 2025**
+
+I am honored to receive the 2024 [Society for the Study of Evolution Graduate Research Excellence Grant: Rosemary Grant Advanced Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants.html)! I was awarded $3,500 for my proposal "How does selection shape DNA methylation and variation in resiliency of threespine stickleback (*Gasterosteus aculeatus*) to rising temperatures?" I'm thrilled that I will be able to sequence samples from a previous experiment to explore the epigenetic mechnanisms associated with thermal tolerance. 
+
+![](SSEGREG.png)
+
+**July, 2023**
+
+I completed the last field season of my PhD! Enjoy some photos from the 2022 and 2023 field season, in which I conducted a large transplant experiment that required the help and support of many people in the Weber Lab, the larger Alaska Stickleback Restoration Project, and in the local community. 
+
+::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
 
 ![](FieldDissection.jpg)
-
-![UW-Madison's Evolution Seminar Series Poster - my first invited seminar!](ESS.png)
 
 ![](ENCs2022.jpg)
 
@@ -64,12 +138,76 @@ Last updated April 2026
 
 ![](IMG_9048.jpeg)
 
+![](IMG_2521.jpg)
+
+![](AerialENCs2022.jpg)
+
+![](IMG_9056.jpeg)
+
+![](IMG_9101.jpeg)
+
+![](IMG_9084.jpeg)
+
+![](IMG_9085.jpeg)
+
 ![](Snorkeling.jpg)
 
-![Stickleback tapeworm *Schistocephalus solidus*](Tapeworms.jpg)
+![](IMG_1930.jpg)
 
-![A copepod infected with *S. solidus*](Copepod.jpg)
+![Local residents](IMG_1976.jpg)
 
+
+![Views from the flight to Anchorage](IMG_9444.jpg)
+
+![Glacier from the plane to Anchorage](IMG_9426.jpg)
+
+![Tern Lake, feat. swans](IMG_9930.jpg)
+
+![](IMG_9955.jpg)
+:::
+
+![](IMG_9194.jpeg)
+
+
+**April, 2023**
+
+After near-daily data collection since October, Trey (another PhD student in the lab) & I finished running a thermal tolerance experiment! 
+
+::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
+
+![](LabData.jpg)
+
+![](LabData2.jpg)
+
+:::
+
+**March, 2023**
+
+I am honored to receive Honorable Mention from the National Science Foundation's 2022 Graduate Research Excellence Program. While not funded, it's exciting that the NSF acknowledged my potential as a researcher and seriously considered funding my project ideas regarding the how DNA methylation mediates plasticity, heritability, and selection. Congrats to all of the awardees!
+
+**March, 2022**
+
+My first paper is published in *Evolutionary Biology*! This paper is the result of work I did as an undergraduate at the University of North Florida. We used species-specific nuclear and mitochondrial markers to track hybridization between two fish species, *Fundulus heteroclitus* and *F. grandis*, on the east coast of Florida. We found fluctuating selection, but hybrids were largely selected against. Check out [the paper](https://link.springer.com/article/10.1007/s11692-021-09553-x) to learn more!
+
+![*F. heteroclitus* male and female](Fundulus.png)
+
+**September, 2021**
+
+I officially joined the Weber Lab as a PhD student in Integrative Biology!
+
+![2022 Weber Lab Photo](./IMG_9752.jpg)
+
+**2019 - 2020**
+
+Enjoy some photos from my time in civil service. I worked as field biologist (Biological Science Technician) for AmeriCorps, the Student Conservation Association, National Park Service, and US Forest Service. 
+
+::: {.research-photos style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"}
+
+![2020 US Forest Service PIBO Program crew](photo11.png)
+
+![2019 Tongass National Forest AmeriCorps/SCA crew](photo8.png)
+
+![2019 Redwood National Park AmeriCorps/SCA crew](photo15.png)
 
 ![](photo3.png)
 
@@ -81,23 +219,21 @@ Last updated April 2026
 
 ![](photo7.png)
 
-![2019 Tongass National Forest AmeriCorps/SCA crew](photo8.png)
 
 ![](photo9.png)
 
 ![](photo10.png)
 
-![2020 US Forest Service PIBO Program crew](photo11.png)
 
 ![](photo12.png)
 
 ![](photo13.png)
 
 ![](photo14.png)
+:::
 
-![2019 Redwood National Park AmeriCorps/SCA crew](photo15.png)
 :::
-:::
+
 
 ---
 
