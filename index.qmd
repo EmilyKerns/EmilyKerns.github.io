@@ -88,7 +88,7 @@ I submitted my first PhD chapter for review at *Molecular Ecology Resources*! I 
 
 **December, 2025**
 
-My undergraduate mentee's research project was accepted for publication at *PeerJ*! Sara and I worked together to design and test whether the tapeworm *S. solidus* use quorum sensing to initiate hatching. We predicted that eggs in higher densities would exhibit higher hatching rates. While we found no effect of density on hatch rates, I think this was an exciting experiment with some really interesting evolutionary predictions and implications. I'm proud that I was able to co-first author a peer-reviewed paper with a mentee, and publish a null result in a widely-read and respected journal. To learn more, check out our [manuscript](https://peerj.com/articles/20667/)!
+My undergraduate mentee's research project was accepted for publication at *PeerJ*! Sara and I worked together to design and conduct an experiment testing whether the tapeworm *S. solidus* use quorum sensing to initiate hatching. We predicted that eggs in higher densities would exhibit higher hatching rates. While we found no effect of density on hatch rates, I think this was an exciting experiment with some really interesting evolutionary predictions and implications. I'm proud that I was able to co-first author a peer-reviewed paper with a mentee, and publish a null result in a widely-read and respected journal. To learn more, check out our [manuscript](https://peerj.com/articles/20667/)!
 
 ![Mature stickleback tapeworms (*Schistocephalus solidus*)](Schisto.jpg)
 
