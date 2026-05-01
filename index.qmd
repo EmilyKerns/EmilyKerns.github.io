@@ -69,6 +69,15 @@ I submitted my second PhD chapter for review at *Proceedings of the Royal Societ
 
 
 ![A copepod infected with *S. solidus* (indicated by the blue arrows). Infected copepods were fed to threespine stickleback](Copepod.png)
+```{=html}
+<figure>
+  <video controls style="width: 100%; height: auto;">
+    <source src="./IMG_0095.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>You can see the tapeworm moving around in the body cavity of the copepod!</figcaption>
+</figure>
+```
 
 :::
 
