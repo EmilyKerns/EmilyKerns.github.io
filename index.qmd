@@ -68,7 +68,7 @@ I submitted my second PhD chapter for review at *Proceedings of the Royal Societ
 ![Mature stickleback tapeworms (*Schistocephalus solidus*)](Tapeworms.jpg)
 
 
-![A copepod infected with *S. solidus* - infected copepods were fed to threespine stickleback](Copepod.jpg)
+![A copepod infected with *S. solidus* (indicated by the blue arrows). Infected copepods were fed to threespine stickleback](Copepod.png)
 
 :::
 
